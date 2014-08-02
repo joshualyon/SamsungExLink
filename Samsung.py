@@ -231,7 +231,7 @@ class ExLink():
     # Source list from Samsung: http://vchproject.org/images/Discrete_and_RS232_Compiled2003.xls
     """ Code List
         Power Toggle : "$08,$22,$00,$00,$00,$00,$d6" *NOT WORKING WITH TV OFF*
-        Power On : "$08,$22,$00,$00,$00,$02,$d4" *NOT WORKING WITH TV OFF*
+        Power On : "$08,$22,$00,$00,$00,$02,$d4"    *NOT WORKING WITH TV OFF*
                     $08,$22,$00,$00,$00,$02,$d6     <<-- DONE
         Power Off : "$08,$22,$00,$00,$00,$01,$d5"   <<-- DONE
 
